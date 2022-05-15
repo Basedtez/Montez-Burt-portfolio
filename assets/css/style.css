@@ -203,7 +203,7 @@ footer h3 {
     
 }
 header nav ul li a {
-    font-size: 30px;
+    font-size: 35px;
   }
   footer h3, footer div {
     text-align: center;
@@ -222,7 +222,33 @@ header nav ul li a {
 }
 /*media query for tablets and smaller*/
 @media screen (max-width:768px) {
+    section{
+        padding: 30px 15px;
+    }
+    .projects h2 {
+        flex: 1 100%;
+        text-align: center;
+    }
+    .projects h3 {
+        flex: 1 100%;
+        text-align: center;
+    }
 
+}
+
+@media screen (max-width:575px) {
+    .bio p {
+        width: 100%;
+    }
+    .boxp {
+        flex: 0 100%
+    }
+    .reach-out {
+        text-align: center;
+    }
+    .reach-out > * {
+        flex: 0 100%;
+    }
 }
 
 
