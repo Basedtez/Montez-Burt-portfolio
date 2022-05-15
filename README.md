@@ -3,7 +3,6 @@ This is My career portfolio that is filled with Info about me, my resume, my wor
 
 All done through html and css
 
-<img src="./Screenshot 2022-05-14 041324.jpg" alt="screenshot of page"></img>
-
+[Screenshot](https://github.com/Basedtez/Montez-Burt-portfolio/blob/main/Screenshot%202022-05-15%20041324.jpg)](Screenshot)
 
 [portfolio](https://basedtez.github.io/Montez-Burt-portfolio/)
