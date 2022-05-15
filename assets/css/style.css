@@ -104,16 +104,28 @@ header a {
 }
 .project {
     display: flex;
-   
+   flex-wrap: wrap;
+
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
 .projects h2 {
     
     color: wheat;
+    font-size: 60px;
+    padding-bottom: 20px;
     text-align: center;
+    margin: 10px auto 35px auto;
+    width: 70%;
+    border-bottom: 7px solid black;
+   
     
 
+}
+.projects h3 {
+    color: wheat;
+    text-align: center;
+   
 }
 .boxp {
     display: flex;
@@ -122,8 +134,10 @@ header a {
   width: 475px;
   height: 625px;
   background-color: rgba(51, 90, 112, 0.5);
-
-  justify-content: center;
+  justify-content: space-around;
+  
+  align-items: center;
+  
   
 }
 .boxp:hover {
@@ -145,7 +159,28 @@ header a {
     
 
 }
+footer {
+    background-color: rgb(22, 16, 1);
+    width: 100%;
+    padding: 40px 35px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+footer p {
+    color: aliceblue;
+    
+}
+footer h3 {
+    color: aliceblue;
+}
 
 .reach-out h2 {
     text-align: center;
+    color: aliceblue;
+
+}
+@media screen {
+    
 }
