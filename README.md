@@ -6,4 +6,4 @@ All done through html and css
 <img src="./Screenshot 2022-05-14 041324.jpg" alt="screenshot of page"></img>
 
 
-file:///C:/Users/Griff/projects/Montez-Burt-profilio/index.html#contact-me
+[portfolio](file:///C:/Users/Griff/projects/Montez-Burt-profilio/index.html#contact-me)
